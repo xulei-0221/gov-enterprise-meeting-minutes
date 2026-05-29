@@ -9,6 +9,9 @@ audience: 产品经理 / 实施工程师 / Prompt 工程师 / 业务运营 / 终
 
 本说明配套 [政企会议纪要生成skill.md](政企会议纪要生成skill.md)（以下简称"Skill 文档"）。Skill 文档是给**大模型**看的规则书，本说明是给**人**看的操作手册。
 
+> **源仓库**：https://github.com/xulei-0221/gov-enterprise-meeting-minutes
+> 反馈与版本追踪请前往 GitHub Issues / Discussions。
+
 ---
 
 ## 1. 这个 Skill 是什么
