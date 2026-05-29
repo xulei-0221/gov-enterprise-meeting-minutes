@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+.trae/
+
+# Office 临时文件
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# 日志与本地草稿
+*.log
+草稿/
+draft/
+local/
